@@ -1,0 +1,5 @@
+#files I need to ignore
+Temp/
+.vs/
+Library/
+UnityPackageManager/
